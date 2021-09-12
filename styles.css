@@ -16,6 +16,11 @@ background-color: #ADD8E6	;
 
 }
 
+.text-center{
+  color:#ffffff;
+  font-weight: bold;
+}
+
 .team-boxed p {
   color:#7d8285;
   text-align:center;
